@@ -1,1 +1,3 @@
 # Rebaser test
+
+conflict
